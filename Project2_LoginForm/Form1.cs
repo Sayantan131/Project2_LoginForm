@@ -47,7 +47,7 @@ namespace Project2_LoginForm
                 }
                 else 
                 {
-                    MessageBox.Show("Invalid login details","Error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+                    MessageBox.Show("Invalid login details","Errorrr", MessageBoxButtons.OK,MessageBoxIcon.Error);
                     txt_username.Clear();
                     txt_password.Clear();
 
